@@ -15,4 +15,4 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 ## Project Content
 
-<a href="">Manage Authorization</a>
+<a href="https://github.com/ivanszeto11/Manage-Authorization-Lab/blob/main/Manage%20Authorization.pdf">Manage Authorization</a>
